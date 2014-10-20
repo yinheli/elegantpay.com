@@ -1,4 +1,4 @@
-elegantpay.github.io
+elegantpay.com
 ====================
 
 elegantpay.com github pages 
